@@ -1,0 +1,8 @@
+#logo{
+    width:25%;
+}
+
+#videos{
+    display: flex;
+    flex-wrap: wrap;
+}
